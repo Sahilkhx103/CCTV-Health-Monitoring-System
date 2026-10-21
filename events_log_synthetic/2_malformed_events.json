@@ -1,0 +1,21 @@
+[
+    {
+        "event_id": "EVT_ERR_01",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01"
+    },
+    {
+        "event_id": "EVT_ERR_02",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "INVALID_DATE",
+        "fault_type": "BLUR_DETECTED"
+    },
+    {
+        "event_id": "EVT_ERR_03",
+        "camera_id": 12345,
+        "source_area": "MIDAS_Area_2",
+        "timestamp": "2026-10-21T12:08:28.351345",
+        "fault_type": "UNKNOWN_FAULT",
+        "confidence_score": "HIGH"
+    }
+]

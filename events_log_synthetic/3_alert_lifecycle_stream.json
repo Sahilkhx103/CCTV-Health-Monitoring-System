@@ -1,0 +1,101 @@
+[
+    {
+        "event_id": "SEQ_BLUR_1",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:58:28.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "PENDING_CONFIRMATION"
+    },
+    {
+        "event_id": "SEQ_BLUR_2",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:58:33.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "PENDING_CONFIRMATION"
+    },
+    {
+        "event_id": "SEQ_BLUR_3",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:58:38.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "PENDING_CONFIRMATION"
+    },
+    {
+        "event_id": "SEQ_BLUR_4",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:58:43.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "ACTIVE"
+    },
+    {
+        "event_id": "SEQ_BLUR_5",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:58:48.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "ACTIVE"
+    },
+    {
+        "event_id": "SEQ_BLUR_6",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:58:53.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "ACTIVE"
+    },
+    {
+        "event_id": "SEQ_BLUR_7",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:58:58.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "ACTIVE"
+    },
+    {
+        "event_id": "SEQ_BLUR_8",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:59:03.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "ACTIVE"
+    },
+    {
+        "event_id": "SEQ_BLUR_9",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:59:08.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "ACTIVE"
+    },
+    {
+        "event_id": "SEQ_BLUR_10",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:59:13.357793",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.92,
+        "expected_state": "ACTIVE"
+    },
+    {
+        "event_id": "SEQ_BLUR_RECOVERY",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T11:59:28.357793",
+        "fault_type": "NORMAL_OPERATION",
+        "confidence_score": 0.98,
+        "expected_state": "RESOLVED"
+    }
+]

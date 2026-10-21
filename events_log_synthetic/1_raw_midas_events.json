@@ -1,0 +1,182 @@
+[
+    {
+        "event_id": "EVT_1000",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_4",
+        "timestamp": "2026-10-21T12:08:28.351345",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.85,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1001",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_2",
+        "timestamp": "2026-10-21T12:08:13.351345",
+        "fault_type": "CONNECTIVITY_LOSS",
+        "confidence_score": 0.87,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1002",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_4",
+        "timestamp": "2026-10-21T12:07:58.351345",
+        "fault_type": "POOR_ILLUMINATION",
+        "confidence_score": 0.78,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1003",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_2",
+        "timestamp": "2026-10-21T12:07:43.351345",
+        "fault_type": "STREAM_FROZEN",
+        "confidence_score": 0.78,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1004",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_3",
+        "timestamp": "2026-10-21T12:07:28.351345",
+        "fault_type": "STREAM_FROZEN",
+        "confidence_score": 0.82,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1005",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_4",
+        "timestamp": "2026-10-21T12:07:13.351345",
+        "fault_type": "OBSTRUCTION_DETECTED",
+        "confidence_score": 0.78,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1006",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_4",
+        "timestamp": "2026-10-21T12:06:58.351345",
+        "fault_type": "CONNECTIVITY_LOSS",
+        "confidence_score": 0.86,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1007",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_4",
+        "timestamp": "2026-10-21T12:06:43.351345",
+        "fault_type": "CONNECTIVITY_LOSS",
+        "confidence_score": 0.98,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1008",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T12:06:28.351345",
+        "fault_type": "STREAM_FROZEN",
+        "confidence_score": 0.75,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1009",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_4",
+        "timestamp": "2026-10-21T12:06:13.351345",
+        "fault_type": "CONNECTIVITY_LOSS",
+        "confidence_score": 0.82,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1010",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_3",
+        "timestamp": "2026-10-21T12:05:58.351345",
+        "fault_type": "CONNECTIVITY_LOSS",
+        "confidence_score": 0.82,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1011",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T12:05:43.351345",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.8,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1012",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_2",
+        "timestamp": "2026-10-21T12:05:28.351345",
+        "fault_type": "CONNECTIVITY_LOSS",
+        "confidence_score": 0.95,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1013",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_1",
+        "timestamp": "2026-10-21T12:05:13.351345",
+        "fault_type": "STREAM_FROZEN",
+        "confidence_score": 0.92,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1014",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_4",
+        "timestamp": "2026-10-21T12:04:58.351345",
+        "fault_type": "OBSTRUCTION_DETECTED",
+        "confidence_score": 0.89,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1015",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_4",
+        "timestamp": "2026-10-21T12:04:43.351345",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.79,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1016",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_4",
+        "timestamp": "2026-10-21T12:04:28.351345",
+        "fault_type": "BLUR_DETECTED",
+        "confidence_score": 0.88,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1017",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_3",
+        "timestamp": "2026-10-21T12:04:13.351345",
+        "fault_type": "POOR_ILLUMINATION",
+        "confidence_score": 0.88,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1018",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_3",
+        "timestamp": "2026-10-21T12:03:58.351345",
+        "fault_type": "POOR_ILLUMINATION",
+        "confidence_score": 0.92,
+        "health_status": "FAULT"
+    },
+    {
+        "event_id": "EVT_1019",
+        "camera_id": "CAM_HIK_DS2CD1043G0I_01",
+        "source_area": "MIDAS_Area_2",
+        "timestamp": "2026-10-21T12:03:43.351345",
+        "fault_type": "STREAM_FROZEN",
+        "confidence_score": 0.79,
+        "health_status": "FAULT"
+    }
+]
