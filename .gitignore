@@ -1,6 +1,4 @@
 # Ignore the heavy image and video datasets to prevent GitHub upload errors
-clean_factory_images/
-Visual-fault-dataset/
 
 # Ignore Python cache
 __pycache__/
